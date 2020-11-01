@@ -1,19 +1,27 @@
-# Avarts
+# Avarts --- [Live version](https://avarts-app.herokuapp.com)
 
-## Live version
+-------------
+
+##### A simple App to explore all your Strava Activities. 
+[![avarts.gif](https://s8.gifyu.com/images/avarts.gif)](https://gifyu.com/image/RgAU)
+
+## Used technologies
 ```
-https://avarts-app.herokuapp.com/
+Server: Node.js
+    ➤Express
+    ➤Express-session
+    ➤Axios
+    ➤Mongoose
+    ➤MongoStore
+    ➤Passport
+    ➤Moment
+
+ Client: Vue.js
+    ➤Vue-router
+    ➤Axios
+    ➤Vuex
+    ➤Leaflet
+    ➤Vue2-leaflet
+    ➤Moment
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
