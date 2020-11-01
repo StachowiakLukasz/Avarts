@@ -3,7 +3,7 @@
 -------------
 
 ##### A simple App to explore all your Strava Activities. 
-![](https://media.giphy.com/media/tWGFUR4Ar6IDKDM0lI/giphy.gif)
+![](https://github.com/StachowiakLukasz/Avarts/blob/master/media/media.gif)
 
 ## Used technologies
 ```
