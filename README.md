@@ -24,4 +24,11 @@ Server: Node.js
     ➤Vue2-leaflet
     ➤Moment
 ```
-
+## Todo
+```
+➤Fix scaling on mobile devices
+➤Fix minor bugs in scaling on PC
+➤Implement vue-router navigation guards
+➤Add activity search bar
+➤Eliminate stutter when loading new polylines
+```
