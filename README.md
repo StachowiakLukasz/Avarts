@@ -1,8 +1,8 @@
-# client
+# Avarts
 
-## Project setup
+## Live version
 ```
-npm install
+https://avarts-app.herokuapp.com/
 ```
 
 ### Compiles and hot-reloads for development
